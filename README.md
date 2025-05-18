@@ -1,6 +1,6 @@
 # Solar Challenge Week 1
 
-## 📦 Setup
+## Setup
 
 ```bash
 git clone https://github.com/your-username/solar-challenge-week1.git
